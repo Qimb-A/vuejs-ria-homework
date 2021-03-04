@@ -1,4 +1,4 @@
-# ria-school-home2
+# ria-school-home
 
 ## Project setup
 ```
